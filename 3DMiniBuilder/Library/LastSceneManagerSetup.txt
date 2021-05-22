@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Scenes/MiniBuilder_Core.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
