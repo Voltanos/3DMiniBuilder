@@ -67,12 +67,10 @@
     <Compile Include="Assets\Scripts\ObjectController.cs" />
     <Compile Include="Assets\Models\InputModel.cs" />
     <Compile Include="Assets\Services\TransformService.cs" />
-    <Compile Include="Assets\Services\MouseService.cs" />
     <Compile Include="Assets\Services\InputService.cs" />
     <Compile Include="Assets\Services\GameManagerService.cs" />
     <Compile Include="Assets\Services\ObjectService.cs" />
     <Compile Include="Assets\Enumerations\CoordinateState.cs" />
-    <Compile Include="Assets\Services\IMouseService.cs" />
     <Compile Include="Assets\Models\GameManagerModel.cs" />
     <Compile Include="Assets\Enumerations\TransformState.cs" />
     <Compile Include="Assets\Services\SpawnService.cs" />
